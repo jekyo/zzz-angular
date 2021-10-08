@@ -32,7 +32,7 @@ Using the **arrows** on your keyboard, select **angular** and press **enter**.
   None Creates only the application
   expressjs A basic app skeleton using [Express](https://expressjs.com/)     
   nuxt-js A boilerplate SSR application using [Nuxt.js](https://nuxtjs.org/) 
-❯ angular A basic starter app using [angular](https://placeholder.dev/)
+❯ angular A basic starter app using [angular](https://angular.io/)
 ```
 When prompted, enter the desired name for your Angular app. 
 
